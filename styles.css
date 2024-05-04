@@ -139,5 +139,6 @@ button:hover{
 @media (max-width:720px){
     body{
         background-color: #D6E1FF;
+        transition: 0.3s ease-in-out;
     }
 }
