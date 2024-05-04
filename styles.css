@@ -89,6 +89,7 @@ button{
     border: none;
     border-radius: 5px;
     cursor: pointer;
+     box-shadow: 5px 8px 22px -7px rgba(0,0,0,0.37);
     
 }
 
@@ -130,3 +131,13 @@ button:hover{
     background-color: #003078;
     color: #fff;
     }
+
+
+
+/* Media Quary */
+
+@media (max-width:720px){
+    body{
+        background-color: #D6E1FF;
+    }
+}
